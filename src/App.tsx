@@ -16,56 +16,56 @@ const documents: DocumentItem[] = [
     id: 'candies',
     title: 'Конфеты',
     description: 'Нежные, тягучие и очень опасные для самоконтроля.',
-    archivePath: '/archives/candies.zip',
+    archivePath: '/kontarev-cookie-clean/archives/candies.zip',
     fileName: 'candies.zip'
   },
   {
     id: 'glazing',
     title: 'Глазировка',
     description: 'Хрустящая сладкая корочка, от которой сложно оторваться.',
-    archivePath: '/archives/glazing.zip',
+    archivePath: '/kontarev-cookie-clean/archives/glazing.zip',
     fileName: 'glazing.zip'
   },
   {
     id: 'cakes-pies-rolls',
     title: 'Пирожные, пироги, рулеты',
     description: 'Мягкое тесто, сочная начинка и тот самый домашний вкус.',
-    archivePath: '/archives/cakes-pies-rolls.zip',
+    archivePath: '/kontarev-cookie-clean/archives/cakes-pies-rolls.zip',
     fileName: 'cakes-pies-rolls.zip'
   },
   {
     id: 'gingerbread',
     title: 'Пряники',
     description: 'Аромат специй и уют в каждом укусе.',
-    archivePath: '/archives/gingerbread.zip',
+    archivePath: '/kontarev-cookie-clean/archives/gingerbread.zip',
     fileName: 'gingerbread.zip'
   },
   {
     id: 'sugar-cookies',
     title: 'Сахарное печенье',
     description: 'Легкий хруст, сливочная сладость и идеальная пара к чаю.',
-    archivePath: '/archives/sugar-cookies.zip',
+    archivePath: '/kontarev-cookie-clean/archives/sugar-cookies.zip',
     fileName: 'sugar-cookies.zip'
   },
   {
     id: 'sweet-pastry',
     title: 'Сдобное',
     description: 'Пышное, румяное и только из печи.',
-    archivePath: '/archives/sweet-pastry.zip',
+    archivePath: '/kontarev-cookie-clean/archives/sweet-pastry.zip',
     fileName: 'sweet-pastry.zip'
   },
   {
     id: 'puff-pastry',
     title: 'Слойка',
     description: 'Воздушные слои и аппетитный хруст с первого укуса.',
-    archivePath: '/archives/puff-pastry.zip',
+    archivePath: '/kontarev-cookie-clean/archives/puff-pastry.zip',
     fileName: 'puff-pastry.zip'
   },
   {
     id: 'sandwiches',
     title: 'Сэндвич',
     description: 'Сытный перекус, который хочется повторить еще раз.',
-    archivePath: '/archives/sandwiches.zip',
+    archivePath: '/kontarev-cookie-clean/archives/sandwiches.zip',
     fileName: 'sandwiches.zip'
   }
 ];
